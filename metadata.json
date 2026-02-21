@@ -1,0 +1,5 @@
+{
+  "name": "HR Smart Assistant",
+  "description": "A professional tool for HR to manage lucky draws and automatic team grouping from CSV or text lists.",
+  "requestFramePermissions": []
+}
